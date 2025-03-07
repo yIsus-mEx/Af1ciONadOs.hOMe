@@ -1,0 +1,48 @@
+#EXTM3U     url-tvg="https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://raw.githubusercontent.com/dracohe/COLOR/master/guide_IPTV_COLOR.xml, https://www.tdtchannels.com/epg/TV.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/6f7b0a8eaded50b346c7ed2483a2a44010ff7493/PlutoTV/mx.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/15504a3be08b0e8f18c46ec9d175f287071dac99/PlutoTV/es.xml, http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz, https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz, https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz, https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz, https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
+
+
+
+
+**************************************************CANALES LATINOS****************************************************************************************************************************
+
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.postimg.cc/0NHVzvQJ/1200px-Las-Estrellas-logo-2016-svg.png" group-title="📺 Canales Latinos 🌎", las Estrellas 🇲🇽 (Izzi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://i.postimg.cc/0NHVzvQJ/1200px-Las-Estrellas-logo-2016-svg.png" group-title="📺 Canales Latinos 🌎", las Estrellas 🇲🇽 (Claro)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=421bf41e7de0f9869aa13aa34200bb75:4b3dfb3e7fb2b65f607ee4290ab74283
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Las Estrellas -1" tvg-name="Las Estrellas -1" tvg-logo="https://i.postimg.cc/0NHVzvQJ/1200px-Las-Estrellas-logo-2016-svg.png" group-title="📺 Canales Latinos 🌎", Las Estrellas -1hrs 🇲🇽 (Izzi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.license_key=0455c3df25bf8568cda913c0a5c9f628:19a25f53ae494b654d4ce4950e1e979c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
+
+
+#EXTINF:-1 tvg-id="Las Estrellas -2" tvg-name="Las Estrellas -2" tvg-logo="https://i.postimg.cc/0NHVzvQJ/1200px-Las-Estrellas-logo-2016-svg.png" group-title="📺 Canales Latinos 🌎", Las Estrellas -2hrs 🇲🇽 (Izzi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="https://i.postimg.cc/VN2183jz/2048px-Canal-5-2000-2002-svg.png" group-title="📺 Canales Latinos 🌎", Canal 5 🇲🇽 (Izzi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
